@@ -1,9 +1,7 @@
-[kube2.png]
-
-====================================
-        KUBE LAUNCHER
-   Minecraft Launcher Gratuito
-====================================
+------------------------------------
+            KUBE LAUNCHER
+       Minecraft Launcher Gratuito
+------------------------------------
 
 🎮 O KUBE Launcher é um launcher
 gratuito de Minecraft Java Edition,
@@ -45,4 +43,15 @@ Este launcher não é afiliado
 ------------------------------------
 ❤️ KUBE LAUNCHER
 Minecraft grátis, do seu jeito.
-====================================
+------------------------------------
+
+
+## Autores
+
+- [@Meresye](https://www.github.com/Meresye)
+- [@Salomao](https://github.com/Saloma0)
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/0yzZNpRS/download-1-1.png)
