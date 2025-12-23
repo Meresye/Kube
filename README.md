@@ -1,4 +1,4 @@
-[# Kube](https://i.ibb.co/0yzZNpRS/download-1-1.png
+[kube2.png]
 
 ====================================
         KUBE LAUNCHER
@@ -7,8 +7,8 @@
 
 🎮 O KUBE Launcher é um launcher
 gratuito de Minecraft Java Edition,
-feito para ser rápido, simples e
-moderno.
+feito para ser simples, rápido
+e moderno.
 
 ------------------------------------
 ✨ Recursos
@@ -18,14 +18,14 @@ moderno.
 - Interface moderna
 - Suporte a múltiplas versões
 - Atualizações automáticas
-- Status do servidor em tempo real
+- Status do servidor
 
 ------------------------------------
 🖥️ Requisitos
 ------------------------------------
 - Windows 10 ou superior
 - Java 17+
-- 4 GB de RAM (8 GB recomendado)
+- 4 GB RAM (8 GB recomendado)
 
 ------------------------------------
 ▶️ Como Jogar
@@ -33,7 +33,6 @@ moderno.
 1. Abra o KUBE Launcher
 2. Escolha a versão do Minecraft
 3. Clique em JOGAR
-4. Divirta-se!
 
 ------------------------------------
 ⚠️ Aviso Legal
@@ -44,8 +43,6 @@ Este launcher não é afiliado
 à Mojang.
 
 ------------------------------------
-❤️ KUBE Launcher
-Minecraft grátis, simples
-e do seu jeito.
+❤️ KUBE LAUNCHER
+Minecraft grátis, do seu jeito.
 ====================================
-)
